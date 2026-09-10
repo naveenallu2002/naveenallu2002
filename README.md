@@ -1,325 +1,207 @@
-# MY GITHUB PLAYBOOK — NAVEEN
+<!--
+  ================================================================
+  GITHUB PROFILE README — Naveen Allu
+  ================================================================
+  HOW TO USE:
+  1. Create a new PUBLIC repo named EXACTLY your GitHub username
+     (e.g. "naveenallu2002/naveenallu2002") — GitHub will show a
+     special README on your profile page automatically.
+  2. Paste this whole file in as README.md.
+  3. Search for "UPDATE:" comments below — those are the fields
+     you should double check / personalize further.
+  4. GitHub Stats / Streak cards below use your username. If your
+     real GitHub handle is NAVEENALLU20 (as on your resume) instead
+     of naveenallu2002, find-and-replace it throughout this file.
+  ================================================================
+-->
 
-**CURRENT GITHUB SCORE: 22/100**
-**TARGET GITHUB SCORE: 90+/100**
+<div align="center">
 
-> Audited profile: https://github.com/naveenallu2002 (12 public repos, 6 inspected directly — GitHub blocks automated access to the full repositories list, so this covers the 6 repos surfaced on your profile page plus your bio/profile data. The pattern across all 6 was consistent enough to be confident it generalizes.)
+<!-- UPDATE: swap in a real hosted banner image if you have one -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Hi%20There,%20I'm%20Naveen%20Allu%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
----
+<!-- Animated typing intro -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer;Generative+AI+%7C+RAG+%7C+LLMs;Python+Developer;Building+real+AI+applications%2C+not+just+demos." alt="Typing SVG" />
+</a>
 
-## ⚠️ A note before you read this
+<br/>
 
-You asked for brutal honesty, so here it is: **right now, this GitHub would not get you a Data Analyst interview.** Not because you lack potential — because there is currently zero evidence on the page of the skill set (SQL, Power BI, Excel, structured EDA, business thinking) that Data Analyst roles hire for. What's there instead reads as a mixed bag of one-off ML/scripting exercises with no documentation. That's fixable, but it needs to be said plainly.
+<!-- Social badges -->
+<a href="https://www.linkedin.com/in/naveen-allu/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:allunaveen200216@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://drive.google.com/file/d/1WconMUtucVFuYzTr9Y3ts_Hl4ejx12om/view?usp=drive_link">
+  <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
+</a>
+<!-- UPDATE: add portfolio / twitter badges here if you have them -->
 
----
+</div>
 
-## CHAPTER 1 — Current GitHub Diagnosis
+<br/>
 
-### 10-Second Recruiter Test
+## 🧠 About Me
 
-If a Data Analyst recruiter opened your profile for 10 seconds:
+I don't just study AI — I build it.
 
-- **Immediate impression:** "Student experimenting with random ML tutorials, not someone practicing analytics as a discipline."
-- **Do you look like a Data Analyst?** No — nothing signals SQL, dashboards, Excel, or business analysis.
-- **Do you look like a beginner?** Yes.
-- **Do you look like someone who copied tutorials?** Yes — several descriptions read as copy-pasted assignment prompts (e.g. "Regression Algorithms on Kaggle Dataset... comparison using a real-world Kaggle dataset in a Jupyter Notebook" is boilerplate tutorial language, not your own framing).
-- **Technically credible?** Not yet — every repo has exactly 1 commit and no README.
-- **Organized?** No — no pinned repos curated, no profile README, mixed unrelated projects (self-driving cars, YouTube downloader, supermarket stock, travel planner) with no throughline.
-- **Can a recruiter tell what you specialize in?** No.
-- **Would they keep exploring?** Unlikely.
-- **Would they recommend an interview?** No, as it stands.
+I'm **Naveen**, an MCA graduate and **AI/ML Engineer** who specializes in turning complex AI concepts into real, working applications. I work at the intersection of **Python, Generative AI, and backend engineering** — using tools like **FastAPI, RAG architecture, LLMs, and the OpenAI API** to build things that actually solve problems.
 
-### Score Breakdown (out of 100 each)
+In the past year, I've shipped projects that speak for themselves — from a full-stack JARVIS-inspired assistant to a RAG-powered research tool that cut hallucinations by grounding LLM outputs in real documents, to a clinical ML system for breast cancer prediction, because AI should matter beyond chatbots too.
 
-| Category | Score | Why |
+- 🎯 **Career Goal:** Looking for my first full-time role as a **Python Developer** or **AI/ML Engineer** — somewhere I can contribute from day one, keep building in the GenAI space, and grow with a team serious about what AI can do next.
+- 🎓 **Education:** MCA, Acharya Nagarjuna University (ANU), Guntur · B.Sc, Computer Science, Andhra University
+- 🎤 **Beyond code:** Technical Event Lead & Anchor — led 3+ college-wide tech events (100+ participants each) and coordinated cross-functional student teams.
+<!-- UPDATE: add 1-2 more personal interests / fun fact here if you'd like -->
+- 🌱 **Fun fact:** I'm as comfortable hosting a stage in front of 100+ people as I am debugging a RAG pipeline at 2 AM.
+
+- 💬 **Ask me about:** RAG systems, LLM integration, FastAPI backends, or ML model evaluation.
+- 🤝 **Open to:** Full-time roles, freelance GenAI/ML projects, open-source collaboration, and research work.
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<!-- UPDATE: add more languages (JavaScript, Java, etc.) if you use them -->
+
+**AI / Machine Learning / GenAI**
+<br/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG%20Architecture-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge"/>
+
+**Backend & Frameworks**
+<br/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+
+**Cloud & Tools**
+<br/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit%20Cloud-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<!-- UPDATE: add Docker / AWS / Linux etc. here once you've worked with them -->
+
+</div>
+
+<br/>
+
+## 🚀 Featured Projects
+
+### 🤖 [Chotu AI — JARVIS-Inspired AI Assistant](https://github.com/naveenallu2002)
+<!-- UPDATE: replace with the real repo URL, e.g. github.com/naveenallu2002/chotu-ai -->
+A full-stack conversational AI assistant with memory, reminders, real-time conversation, and task execution. Includes a PDF summarization pipeline for conversational document Q&A, and modular REST APIs separating frontend, backend, and service layers for easier debugging and maintenance.
+**Tech Stack:** `Python` `FastAPI` `Streamlit` `OpenAI API`
+**Deployed on:** Render & Streamlit Cloud
+
+### 📄 RAG-Based Research Insight Generator
+<!-- UPDATE: add repo link -->
+A GenAI system that extracts structured insights from multiple research papers, cutting down manual reading time. Grounds LLM outputs in retrieved document context — **improving response accuracy by 20%** and reducing hallucinations in citation-heavy queries. Full pipeline covers chunking, embedding generation, and vector-based semantic search, exposed via FastAPI + an interactive Streamlit UI.
+**Tech Stack:** `Python` `LangChain` `FastAPI` `Streamlit` `Vector Search`
+
+### 🎗️ Breast Cancer Prediction System
+<!-- UPDATE: add repo link -->
+A clinical ML classification system predicting malignant vs. benign tumors. Built a full preprocessing pipeline (missing values, feature scaling, cleaning) and compared **Logistic Regression, Decision Tree, and Random Forest** models using accuracy, precision, recall, and confusion matrices — with feature-importance visualizations to keep results interpretable.
+**Tech Stack:** `Python` `scikit-learn` `Pandas` `Matplotlib` `Seaborn`
+
+<!-- UPDATE: add a 4th project here if you'd like more coverage -->
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=naveenallu2002&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveenallu2002&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=naveenallu2002&theme=tokyonight&hide_border=true"/>
+</div>
+
+<!--
+  NOTE: These stat cards only populate correctly once your username has
+  public activity/repos. If they show "stats not found," double-check
+  your exact GitHub username above.
+-->
+
+<br/>
+
+## 💼 Experience Snapshot
+
+| Role | Company | Duration |
 |---|---|---|
-| Data Analyst positioning | 5 | No signal anywhere that you're pursuing analytics |
-| Portfolio quality | 15 | Scattered, unrelated projects |
-| Project quality | 20 | Small notebooks, no depth |
-| Technical credibility | 20 | Real code exists, but unexplained |
-| Repository organization | 10 | No structure, no folders, files dumped at root |
-| README quality | 0 | No repository has a README |
-| Code quality | — | Not independently verifiable without opening notebooks, but zero documentation is itself a code-quality red flag |
-| Data analysis quality | 15 | ML notebooks exist, but no visible EDA narrative or business framing |
-| SQL skills | 0 | No SQL project visible |
-| Excel skills | 0 | No Excel project visible |
-| Power BI skills | 0 | No Power BI project visible |
-| Python skills | 35 | Some evidence via notebooks (pandas, regression) |
-| Business thinking | 5 | No business questions, KPIs, or recommendations anywhere |
-| Documentation | 0 | Matches README score — nothing documents intent, method, or findings |
-| Git/GitHub practices | 10 | Every repo = 1 commit, "final-final" style naming in places |
-| Recruiter appeal | 15 | Would not hold attention past a glance |
-| Overall professionalism | 20 | Bio links to personal Instagram accounts; company field reads oddly; no LinkedIn strategy |
-
-**Overall: 22/100**
-
----
-
-## CHAPTER 2 — Complete Profile Audit
-
-**Username:** `naveenallu2002`
-PROBLEM: Includes birth year, reads casual rather than professional.
-WHY IT MATTERS: Recruiters and hiring managers form a first impression from the handle before anything else loads. Usernames with birth years read as personal/social rather than professional.
-FIX: You can't easily rename without breaking existing links, so instead compensate hard with a strong display name, bio, and profile README (below). If you're open to it, a clean rename like `naveen-allu` or `alluvnaveen` is possible via GitHub Settings, but only do this once you're finished restructuring repos, since renaming changes some URLs.
-
-**Profile name:** "ALLU NAVEEN"
-CURRENT: All-caps, no title.
-PROBLEM: All-caps reads as unpolished; there's no professional headline attached.
-FIX: Use standard capitalization: **Naveen Allu**. Put your target-role headline in the bio field, not the name field.
-
-**Bio:** Currently empty (just a "🎯 Focusing" status emoji).
-PROBLEM: A blank bio is a wasted, high-visibility slot directly under your name.
-FIX (final version — pick one from Chapter 4, e.g.):
-`Aspiring Data Analyst | SQL · Python · Power BI · Excel | Turning raw data into business decisions`
-
-**Location:** Not set in a standard way; timezone shows as UTC-12, inconsistent with Hyderabad.
-PROBLEM: Inconsistent location/timezone data looks unpolished and doesn't help recruiters searching by location.
-FIX: Set location to `Hyderabad, India` in Settings so the timezone auto-corrects.
-
-**Company field:** "As software solutions Pvt Ltd"
-PROBLEM: Lowercase "As," ambiguous whether this is your employer or a placeholder — reads as a typo, not a real company.
-WHY IT MATTERS: Recruiters use this field to infer your current status (employed/student/freelance). An unclear entry raises doubt rather than credibility.
-FIX: If this is your actual employer, correct the capitalization and, ideally, only include it if the role is relevant to your target field. If it isn't accurate or current, remove it — an empty field is safer than a confusing one. If you're a student/fresher, put `Aspiring Data Analyst` or `Open to Data Analyst roles` instead.
+| Python Developer Intern | The Skybrisk | Apr 2026 – May 2026 |
+| Generative AI Engineer | V CUBE Software Solutions Pvt Ltd | Jan 2026 – Jun 2026 |
+| ML Engineer (Breast Cancer Prediction) | V CUBE Software Solutions Pvt Ltd | Jan 2026 – Jun 2026 |
+| Technical Event Lead & Anchor | Vignan Institute of Technology and Science | Apr 2026 |
 
-**Links:** LinkedIn is present (`linkedin.com/in/naveen-allu/`) — good, keep it. Two personal Instagram links are also listed.
-PROBLEM: Personal Instagram accounts (including one that appears to be for an unrelated "software solutions" page) sitting next to your LinkedIn dilute the professional read of the profile and can pull a recruiter's attention somewhere irrelevant.
-WHY IT MATTERS: Every link on a professional profile should serve the story "hire me as a Data Analyst." Instagram doesn't.
-FIX: Remove both Instagram links from the GitHub profile. Keep only LinkedIn, and add a portfolio link once you have one (see Chapter 9/16).
+<br/>
 
-**Profile README:** None exists.
-PROBLEM: A missing profile README is a missed opportunity — it's the single highest-visibility spot on your entire GitHub.
-FIX: Create one. Full content is in Chapter 5.
+## 🏆 Certifications
 
-**Pinned repositories:** None curated — GitHub is showing your 6 most-recently-active repos by default (Popular repositories section), not a deliberate pin selection.
-PROBLEM: Recruiters see whatever appears at the top, unfiltered. Right now that includes a YouTube downloader and a travel-planning HTML page — nothing analytics-related.
-FIX: Pin deliberately. See Chapter 7.
-
-**Repository naming/descriptions/topics:** See Chapters 6, 9, 10.
-
----
+- 🔗 LangChain Academy — Introduction to LangChain (Python)
+- 🔗 LangGraph — Python
+- 🐍 Python Complete Course for Python Beginners
 
-## CHAPTER 3 — Repository-by-Repository Audit
+<!-- UPDATE: add any additional certifications here -->
 
-| Repo | What it is | Commits | README | Score /100 | Verdict |
-|---|---|---|---|---|---|
-| `choose-travel-planing` | Static HTML travel planning page | 1 | None | 10 | 🔴 ARCHIVE (unrelated to analytics; also "planing" is misspelled in the name) |
-| `Supermarket` | Notebook checking stock availability with Python lists | 1 | None | 15 | 🔴 ARCHIVE or fully rebuild — currently a basic list exercise, not an analysis |
-| `Deep-Learning-For-Autonomous-Vahicle-Navigation` | Self-driving car deep learning project | 1 | None | 20 | 🔴 ARCHIVE from a Data Analyst portfolio (great topic for an ML/DS resume, actively hurts focus on a DA one — it dilutes your "Data Analyst" story; "Vahicle" is also misspelled in the name) |
-| `YouTube-Video-Download-` | Script to download YouTube videos | 1 | None | 15 | 🔴 ARCHIVE — utility script, no analytical value, and trailing hyphen in the name looks like an editing mistake left in |
-| `Benguluru_Housing_Prices` | Regression model predicting Bengaluru house prices from a Kaggle dataset | 1 | None | 45 | 🟢 REBUILD — this is your strongest candidate. Real dataset, real regression task, clear business framing potential (real estate pricing). Currently just a raw notebook + CSV with no story. |
-| `Synthetic-Multicrop-Agricultural-Dataset-50K-Records-` | Regression algorithms on a synthetic 50K-row agricultural dataset | 1 | None | 40 | 🟢 REBUILD — good dataset size, but "synthetic" data plus a generic tutorial-style description ("Regression Algorithms on Kaggle Dataset... comparison using a real-world Kaggle dataset") makes it read as copied. Needs a real business angle (e.g., crop yield planning) and honest framing about the data. |
-
-**Pattern across every single repo:** 1 commit, no README, no folder structure (files dumped directly at root), no evidence of iteration. This is the single biggest signal working against you — it tells a recruiter these were uploaded once and never revisited, not developed as portfolio pieces.
-
-None of your 6 visible repos currently touch SQL, Power BI, Excel, or dashboarding — the core Data Analyst toolkit. That's the most important gap to close, not just polishing what exists.
+<br/>
 
----
+## 📚 Currently Learning
 
-## CHAPTER 4 — Skill Evidence Matrix
+- 🕸️ Advanced LangGraph & multi-agent GenAI systems
+- ☁️ Cloud-native deployment for ML/GenAI apps
+- 🗄️ Vector databases & production-grade RAG optimization
 
-Only counting what your repositories currently demonstrate, per your own instruction not to inflate:
+<!-- UPDATE: swap these for whatever you're actually diving into right now -->
 
-| Skill | Demonstrated? | Evidence Strength | What's Missing |
-|---|---|---|---|
-| Excel | ❌ No | None | Any workbook, PivotTable, or formula-driven analysis project |
-| SQL | ❌ No | None | A single query file, schema, or database project |
-| Power BI | ❌ No | None | A `.pbix` file or dashboard screenshots |
-| Tableau | ❌ No | None | Any dashboard |
-| Python | ✅ Yes | Weak-Moderate | Real notebooks exist (regression), but no documentation of approach or results |
-| Pandas | ✅ Likely | Weak | Can't confirm without opening notebook code in depth; not referenced in any README because none exist |
-| NumPy | ⚠️ Possibly | Unclear | Same as above |
-| Data Cleaning | ⚠️ Possibly | Unclear | No written cleaning steps or before/after evidence anywhere |
-| EDA | ❌ Not visible | None | No visualizations, summary stats, or narrative shown outside the notebook itself |
-| Statistics | ❌ Not visible | None | No stated methodology (train/test split, metrics used, etc.) |
-| Data Visualization | ❌ Not visible | None | No charts surfaced anywhere on the profile |
-| Dashboarding | ❌ No | None | — |
-| Power Query | ❌ No | None | — |
-| DAX | ❌ No | None | — |
-| Business Intelligence | ❌ No | None | — |
-| Business Analysis | ❌ No | None | No KPIs, business questions, or recommendations anywhere |
-| Data Storytelling | ❌ No | None | No README = no story |
-| Generative AI | ❌ No | None | — |
-| Git/GitHub practices | ⚠️ Weak | Weak | 1 commit per repo profile-wide; no meaningful commit history |
+<br/>
 
-**Bottom line:** you currently have Python exposure and nothing else a Data Analyst recruiter screens for. That's the real gap — more than polish, you need net-new SQL, Excel, and Power BI projects.
+## 🤝 Open to Collaborate On
 
----
+- 🧩 Open-source GenAI / RAG projects
+- 💼 Freelance Python / AI-ML development
+- 🔬 Applied ML research projects
+- 🚀 Early-stage startup ideas in the AI space
 
-## CHAPTER 5 — My Profile README (paste this into a new repo named exactly `naveenallu2002`)
+<br/>
 
-```markdown
-### Hi, I'm Naveen 👋
+## 📫 Connect With Me
 
-Aspiring **Data Analyst** turning raw, messy data into decisions businesses can act on.
+<div align="center">
 
-- 🔭 Currently building hands-on projects in **SQL, Power BI, Excel, and Python** for real-world business problems
-- 🌱 Currently sharpening: advanced SQL (window functions, CTEs), DAX, and dashboard design
-- 💬 Ask me about: data cleaning, exploratory data analysis, regression modeling, and dashboard storytelling
-- 📫 Reach me: [LinkedIn](https://linkedin.com/in/naveen-allu/)
-- 🎯 Goal: an entry-level Data Analyst / BI Analyst role where I can turn data into decisions
+<a href="https://www.linkedin.com/in/naveen-allu/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:allunaveen200216@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://drive.google.com/file/d/1WconMUtucVFuYzTr9Y3ts_Hl4ejx12om/view?usp=drive_link">
+  <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
+</a>
 
----
+<br/><br/>
 
-**Tools & Technologies**
+📍 Hyderabad, Telangana, India
 
-`Python` `Pandas` `NumPy` `SQL` `Power BI` `Excel` `Matplotlib` `Git/GitHub`
+</div>
 
----
-
-**Featured Projects**
-
-| Project | What it does | Tools |
-|---|---|---|
-| [Bengaluru Housing Price Analysis](https://github.com/naveenallu2002/bengaluru-housing-price-analysis) | Predicts and explains housing prices from location, size, and room count | Python, Pandas, Regression |
-| *(add each new project here as you build it)* | | |
-
----
-
-📊 Always open to feedback on my projects — feel free to open an issue or reach out on LinkedIn.
-```
-
-> Note: I did not invent achievements, certifications, or metrics you haven't earned — fill in the featured-projects table as you complete the rebuilds in Chapter 7, and only add a metric (e.g. "reduced error by X%") once you've actually measured it.
-
----
-
-## CHAPTER 6 — GitHub Bio Options
-
-1. **Recruiter-focused:** `Aspiring Data Analyst | SQL, Python, Power BI, Excel | Open to entry-level Data/BI Analyst roles`
-2. **Data Analyst-focused:** `Data Analyst in progress — turning data into business decisions with SQL & Python`
-3. **Minimal:** `Data Analyst | SQL · Python · Power BI`
-4. **Technical:** `Python (Pandas/NumPy) · SQL · Power BI · Data Cleaning & EDA`
-5. **Business Analytics:** `Business-minded analyst | Data → Insights → Decisions`
-6. **SQL + Power BI:** `SQL Analyst | Power BI Dashboards | Business Intelligence`
-7. **Python + Analytics:** `Python for Data Analytics | Pandas, EDA, Regression`
-8. **GenAI + Analytics:** `Data Analyst exploring GenAI-assisted analytics workflows`
-9. **Personal brand:** `Making data make sense — one dashboard at a time`
-10. **Best overall (recommended):** `Aspiring Data Analyst | SQL · Python · Power BI · Excel | Turning raw data into business decisions`
-
-**Final recommendation: #10.** It's specific (names your actual tools), states the target role plainly, and ends on the outcome recruiters care about — decisions, not just charts.
-
----
-
-## CHAPTER 7 — Repository Naming & Cleanup
-
-| Current name | Problem | New name |
-|---|---|---|
-| `choose-travel-planing` | Misspelled, off-topic, no analytics value | *(archive — do not rename, remove from profile view)* |
-| `Supermarket` | Too generic, doesn't describe the analysis | If rebuilt: `retail-inventory-analysis` |
-| `Deep-Learning-For-Autonomous-Vahicle-Navigation` | Misspelled, off-topic for DA roles | *(archive from DA portfolio; keep private or in a separate ML-focused profile if you want to preserve it)* |
-| `YouTube-Video-Download-` | Trailing hyphen, no analytical value | *(archive)* |
-| `Benguluru_Housing_Prices` | Inconsistent casing/underscore, city name misspelled ("Benguluru" vs "Bengaluru") | `bengaluru-housing-price-analysis` |
-| `Synthetic-Multicrop-Agricultural-Dataset-50K-Records-` | Overlong, trailing hyphen, name describes the dataset not the analysis | `agricultural-yield-regression-analysis` |
-
-**How to archive without deleting your work:** GitHub → repo → Settings → scroll to "Danger Zone" → "Archive this repository." This hides it from active contribution stats and unpins it from view, without destroying it — useful if you want to keep the self-driving-car or YouTube-downloader projects for a different (non-DA) audience later.
-
----
-
-## CHAPTER 8 — Ideal Repository Structure
-
-For any new analytics project, use:
-
-```
-project-name/
-│
-├── README.md              ← business problem, method, findings, how to run
-├── data/                   ← raw + cleaned data (or a note pointing to the source if too large)
-├── notebooks/              ← EDA and modeling notebooks
-├── sql/                    ← .sql files with queries, commented
-├── dashboard/              ← .pbix file or dashboard screenshots
-├── images/                 ← charts/screenshots referenced in the README
-├── src/                    ← reusable Python scripts, if any
-└── requirements.txt        ← exact package list so it's reproducible
-```
-
-**Never upload:** passwords, API keys, database credentials, `.env` files, large raw datasets that bloat the repo (link to the source instead), OS junk files (`.DS_Store`, `Thumbs.db`), personal information in sample data, or unnecessary notebook output cells (clear them before committing — they bloat file size and often leak local file paths).
-
----
-
-## CHAPTER 9 — Ideal 6 Pinned Repositories
-
-Since none of these fully exist yet, this is your build target (see Chapter 10 for the roadmap):
-
-1. **End-to-end SQL + Power BI sales/business analysis** — proves the full DA toolkit in one place
-2. **`bengaluru-housing-price-analysis`** (rebuilt) — proves Python/regression + business framing
-3. **SQL business-questions project** (e.g., retail or e-commerce database) — proves SQL fluency
-4. **Excel analysis project** with PivotTables and a written summary — proves the most commonly-required DA tool
-5. **`agricultural-yield-regression-analysis`** (rebuilt) — proves EDA + regression on a larger dataset
-6. **Profile README repo (`naveenallu2002`)** — technically not "pinned" the same way, but it's the anchor everything else links back to
-
-Order pins so the strongest, most complete project (with SQL+BI+business framing) is #1 — that's what recruiters open first.
-
----
-
-## CHAPTER 10 — 30-Day Plan (condensed)
-
-**Week 1 — Cleanup:** Archive the 3 off-topic repos. Fix bio, remove Instagram links, fix location. Create the profile README (Chapter 5).
-
-**Week 2 — Rebuild what exists:** Add proper `README.md`, folder structure, and a written EDA/insights section to `Benguluru_Housing_Prices` and the agricultural regression project. Rename both per Chapter 7.
-
-**Week 3 — Build net-new SQL project:** Pick a public dataset (e.g. Northwind, a Kaggle sales dataset), write 15–20 SQL queries answering real business questions (top products, monthly revenue trend, customer segments), document with a README.
-
-**Week 4 — Build Power BI/Excel project:** Take the same or a similar dataset, build one Power BI dashboard (or a well-structured Excel workbook with PivotTables) answering 3–5 business questions with a one-page written summary of insights and recommendations.
-
-**Target after 30 days:** 4 strong, documented projects; a real profile README; pinned repos curated; no unrelated content pinned.
-
----
-
-## CHAPTER 11 — Top Problems (ranked)
-
-| # | Priority | Problem | Fix | Time |
-|---|---|---|---|---|
-| 1 | 🚨 Critical | Zero SQL/Power BI/Excel evidence anywhere | Build one project in each | 2–3 weeks |
-| 2 | 🚨 Critical | Every repo has no README | Write READMEs for repos you keep | 1 day per repo |
-| 3 | 🚨 Critical | No profile README | Paste Chapter 5 content | 15 min |
-| 4 | 🚨 Critical | Unrelated projects dominate the visible repo list | Archive 3 repos | 15 min |
-| 5 | ⚠️ Important | No business framing on any project | Add business problem + KPIs + recommendations to each README | 1–2 hrs/project |
-| 6 | ⚠️ Important | Bio is empty | Set bio (Chapter 6) | 5 min |
-| 7 | ⚠️ Important | Instagram links on a professional profile | Remove them | 5 min |
-| 8 | ⚠️ Important | 1-commit repos look uncommitted-to | Rebuild with real, incremental commits going forward | Ongoing |
-| 9 | ⚠️ Important | Misspelled repo names ("Vahicle," "planing," "Benguluru") | Rename/archive per Chapter 7 | 15 min |
-| 10 | 🟢 Minor | Location/timezone inconsistent | Fix in Settings | 5 min |
-
----
-
-## CHAPTER 12 — If I Only Change 10 Things
-
-1. Build one real SQL project with 15+ business-question queries
-2. Build one real Power BI or Excel dashboard project
-3. Add a full README to every repo you keep
-4. Write and add the profile README
-5. Archive the 3 off-topic repos (travel page, YouTube downloader, self-driving car)
-6. Set your bio to option #10 in Chapter 6
-7. Remove the Instagram links; keep only LinkedIn
-8. Rename the housing and agriculture repos per Chapter 7
-9. Curate 6 pinned repos in the order given in Chapter 9
-10. Commit in small, real increments going forward instead of 1 upload per project
-
----
-
-## Daily / Weekly / Monthly Checklist
-
-**Daily:** Nothing forced — don't commit just to make the graph green (see below).
-**Weekly:** Push real progress on whichever project is active; even 2–3 meaningful commits a week is enough to show consistency.
-**Monthly:** Review pinned repos and profile README — update the featured-projects table as new work is finished.
-
-**On activity/commits — do this honestly:** don't fake commits or make trivial whitespace edits to stay "green." A recruiter who opens your contribution graph is looking for real, substantive work, and empty-commit streaks are easy to spot and read as manipulation, not effort. A realistic cadence for someone building a portfolio alongside other commitments is a few solid commits per week tied to actual project progress — that's a genuinely good story ("built this project", "added SQL layer", "wrote README") rather than a green square for its own sake.
-
----
-
-## My GitHub Rules
-
-1. No repo goes public without a README.
-2. Every project states a business problem before any code.
-3. One commit per repo is a signal of neglect — commit in real stages.
-4. Never pin a project that doesn't map to my target role.
-5. Never invent a metric or skill I haven't demonstrated.
-6. Clear notebook outputs before committing.
-7. Never commit credentials, keys, or personal data.
-8. Every dataset gets a one-line source citation in the README.
-9. If a project looks like a tutorial, either transform it or archive it — don't leave it ambiguous.
-10. Keep unrelated hobby projects (games, downloaders, unrelated ML) off the main pinned/profile view.
-11. Use consistent naming: lowercase, hyphenated, descriptive.
-12. Every README ends with insights and a recommendation, not just code output.
-13. LinkedIn, resume, and GitHub tell the same career story — check this every time I update one.
-14. Quality over quantity — 5 strong projects beat 15 weak ones.
-15. Review the whole profile like a recruiter would, once a month.
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=100&section=footer"/>
+</div>
